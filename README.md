@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mí:
 Hola, soy Marely ! 👋😊
 
 Soy analista de datos con un perfil híbrido entre operaciones, compras, BI y desarrollo en Python. Vengo del mundo real: inventarios que no esperan, proveedores que cambian precios, productos con fallas técnicas, campañas de marketing improvisadas y reportes que salvan el día.
@@ -9,7 +9,7 @@ Trabajo con Python, SQL, Pandas, Power BI y Excel avanzado, creando desde ETLs l
 Mi meta: seguir construyendo proyectos que mezclen data, lógica de negocio y operación real, porque en el mundo actual los perfiles híbridos no solo son útiles… son los que hacen que todo fluya.
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marely) 
 
 # 💻 Tech Stack:
