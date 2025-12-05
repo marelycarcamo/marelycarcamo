@@ -1,12 +1,13 @@
 # 💫 Sobre mí:
 Hola, soy Marely ! 👋😊
 
-Soy analista de datos con un perfil híbrido entre operaciones, compras, BI y desarrollo en Python. Vengo del mundo real: inventarios que no esperan, proveedores que cambian precios, productos con fallas técnicas, campañas de marketing improvisadas y reportes que salvan el día.
-Hoy transformo toda esa experiencia en soluciones basadas en datos, automatizaciones y proyectos que conectan negocio + análisis + tecnología.
+Soy Analista de Datos con un perfil híbrido entre operaciones, compras, BI y desarrollo en Python. Mi experiencia viene del día a día real: inventarios que se mueven, precios que cambian, productos que fallan y reportes que tienen que estar ayer. Esa mezcla me permite entender el negocio y transformarlo en soluciones basadas en datos que realmente ayudan a las personas.
 
-Trabajo con Python, SQL, Pandas, Power BI y Excel avanzado, creando desde ETLs ligeros hasta dashboards claros y modelos de datos ordenados. Me interesa el futuro del análisis, la IA como copiloto y el desarrollo de talento digital.
+Trabajo con Python, SQL, Pandas, Power BI y Excel avanzado, construyendo desde automatizaciones y ETLs ligeros hasta dashboards claros, análisis que responden preguntas y modelos de datos ordenados. También he desarrollado proyectos con bases de datos y backend en Django, porque los datos cobran valor cuando se integran en el flujo operativo.
 
-Mi meta: seguir construyendo proyectos que mezclen data, lógica de negocio y operación real, porque en el mundo actual los perfiles híbridos no solo son útiles… son los que hacen que todo fluya.
+Me apasiona enseñar, coordinar equipos y hacer que la tecnología sea más usable para todos. Hoy sigo potenciando mi perfil con IA y nuevas herramientas, porque el futuro del análisis es colaborativo, inteligente y sin barreras.
+
+Mi objetivo: seguir creando proyectos donde la data, la operación y las personas se encuentren. Los perfiles híbridos no solo aportan… hacen que todo funcione.
 
 
 ## 🌐 Redes Sociales:
