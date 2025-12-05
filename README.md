@@ -1,11 +1,19 @@
 # 💫 Sobre mí:
 Hola, soy Marely ! 👋😊
 
-Soy Analista de Datos con un perfil híbrido entre operaciones, compras, BI y desarrollo en Python. Mi experiencia viene del día a día real: inventarios que se mueven, precios que cambian, productos que fallan y reportes que tienen que estar ayer. Esa mezcla me permite entender el negocio y transformarlo en soluciones basadas en datos que realmente ayudan a las personas.
+Soy un perfil híbrido: negocio, personas y tecnología hablando el mismo idioma.
+Entiendo sistemas complejos como si fueran rompecabezas: observo, conecto piezas, detecto fallas estructurales y transformo procesos desordenados en soluciones claras, útiles y escalables.
 
-Trabajo con Python, SQL, Pandas, Power BI y Excel avanzado, construyendo desde automatizaciones y ETLs ligeros hasta dashboards claros, análisis que responden preguntas y modelos de datos ordenados. También he desarrollado proyectos con bases de datos y backend en Django, porque los datos cobran valor cuando se integran en el flujo operativo.
+He trabajado en proyectos TI, salud, retail, capacitación, datos e implementación en terreno.
+Puedo moverme igual de bien con médicos, equipos técnicos, áreas comerciales y usuarios no técnicos, porque traduzco necesidades reales y las llevo a flujos funcionales, decisiones y mejoras concretas.
 
-Me apasiona enseñar, coordinar equipos y hacer que la tecnología sea más usable para todos. Hoy sigo potenciando mi perfil con IA y nuevas herramientas, porque el futuro del análisis es colaborativo, inteligente y sin barreras.
+Me destacan tres cosas:
+visión estratégica, capacidad de ordenar el caos y habilidad para generar confianza rápidamente.
+Sé anticipar problemas, acompañar a las personas en el cambio y asegurar que una solución tecnológica funcione en la práctica, no solo en un documento.
+
+Mi estilo es directo:
+primero entender, luego transformar.
+Y cuando transformo, lo hago con impacto.
 
 Mi objetivo: seguir creando proyectos donde la data, la operación y las personas se encuentren. Los perfiles híbridos no solo aportan… hacen que todo funcione.
 
